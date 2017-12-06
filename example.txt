@@ -1,2 +1,4 @@
 First Commit in git repo 
 #MERGE CONFLICT
+#Something in new branch
+
